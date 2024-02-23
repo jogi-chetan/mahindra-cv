@@ -6,7 +6,7 @@ main .carousel {
   display: flex;
   scroll-snap-type: x mandatory;
   overflow: scroll hidden;
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
   max-width: 1680px;
   margin: auto;
 }
