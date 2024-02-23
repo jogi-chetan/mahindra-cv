@@ -48,7 +48,7 @@
   /* buttons */
   --button-background-color: red;
   --button-border-radius: 0;
-  --button-text-color: var(--text-color);
+  --button-text-color: white;
   --button-padding: 1em 2.5em;
 
   /* default content */
